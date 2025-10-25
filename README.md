@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ECOSORT AI - Waste Sorting Classification
 
 ECOSORT AI is an advanced AI-powered web application that intelligently classifies waste materials into recycling categories using state-of-the-art Convolutional Neural Networks (CNNs).
@@ -18,3 +19,6 @@ ECOSORT AI is an advanced AI-powered web application that intelligently classifi
 - **Computer Vision**: CNN with Transfer Learning (MobileNetV2)
 
 ## Project Structure
+=======
+# GreenCity
+>>>>>>> 343d0850e2e7f0fc2c3e9bba52d31467f24b8b56
