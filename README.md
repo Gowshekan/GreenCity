@@ -15,34 +15,6 @@ An intelligent web application that uses Deep Learning to classify waste materia
 - **🌍 Environmental Impact**: Supports UN Sustainable Development Goals (SDG 11 & 13)
 - **📚 Recycling Guidance**: Detailed recycling information and tips for each category
 
-## 🏗️ Project Structure
-
-```
-GreenCity/
-├── app/
-│   ├── ml_model/              # Machine Learning components
-│   │   ├── train_model.py     # Model training script
-│   │   ├── prediction.py      # Prediction logic
-│   │   ├── dataset_loader.py  # Data preprocessing
-│   │   └── saved_model.h5     # Trained model
-│   ├── static/
-│   │   ├── css/style.css      # Modern styling with animations
-│   │   ├── js/script.js       # Interactive frontend logic
-│   │   └── images/            # Assets and logo
-│   ├── templates/             # Flask HTML templates
-│   │   ├── index.html         # Main application page
-│   │   ├── about.html         # Project information
-│   │   └── 404.html           # Error page
-│   ├── __init__.py           # Flask app factory
-│   ├── views.py              # Application routes
-│   ├── models.py             # Business logic
-│   └── config.py             # Configuration settings
-├── dataset/                   # Dataset structure
-├── requirements.txt          # Python dependencies
-├── run.py                   # Application entry point
-└── README.md                # Project documentation
-```
-
 ## 🛠️ Installation & Setup
 
 ### Prerequisites
